@@ -1,5 +1,5 @@
 # Maritime Fleet Optimisation
-## 1. Extraction of information from Dataset of 108 bunker ships via SQL
+### 1. Extraction of information from Dataset of 108 bunker ships via SQL
 2. Mxied-Integer Linear Programming (MILP) programme via PuLP to determine best arrangement of fleet through various metrics within certain constraints.
 3. Constraints include:
    a. >= 1 ship of every main engine fuel type (LNG, Methanol etc.)
