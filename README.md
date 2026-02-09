@@ -1,17 +1,17 @@
 # Maritime Fleet Optimisation
 #### 1. Extraction of information from Dataset of 108 bunker ships via SQL
 Dataset Includes:
-• Vessel	ID, name, vessel type	
-• AIS	vessel movement data	–
-- date/time	stamp, latitude/longitude positions	
+- Vessel	ID, name, vessel type	
+- AIS	vessel movement data	–
+- date/time stamp, latitude/longitude positions	
 - Positional information - at	anchor, in port	
-• Cargo carrying capacity (DWT in tonnes)	
-• Design	speed	(Vref)
-• Machinery	powers/load	
-• Main Engine (P)
-• Auxiliary	engine (ael)	
-• Auxiliary	Boiler (abl)	
-• Fuel type	—	
+- Cargo carrying capacity (DWT in tonnes)	
+- Design	speed	(Vref)
+- Machinery	powers/load	
+- Main Engine (P)
+- Auxiliary	engine (ael)	
+0 Auxiliary	Boiler (abl)	
+- Fuel type	—	
 - Fuel type the ship	is	designed	to	burn in	its above	three	machineries	
 § main_engine_fuel_type	
 § aux_engine_fuel_type	
